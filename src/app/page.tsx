@@ -64,7 +64,7 @@ const Footer = () => {
       <Link className="text-black mb-3" href="https://linktr.ee/emeraldbakery">
         linktr.ee/emeraldbakery
       </Link>
-      <h1 className="text-black">© 2025 Emerald Bakery</h1>
+      <h1 className="text-black">© 2026 Emerald Bakery</h1>
     </footer>
   );
 };
